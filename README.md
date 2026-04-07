@@ -1,8 +1,6 @@
 ## Legal RAG Assistant — UK Law Access for Litigants in PersonProject: Leveraging Large Language Models for Legal Case Analysis
 Type: Experiment-Based MSc Dissertation
 
-Here's a high-level overview of your thesis project, ready for your GitHub README:
-
 
 Overview
 This project addresses the access-to-justice gap in the UK by building a Retrieval-Augmented Generation (RAG) assistant that helps non-lawyers — particularly litigants in person (LiPs) — understand their legal rights using plain English.
